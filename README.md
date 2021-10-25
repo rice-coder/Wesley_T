@@ -2,10 +2,10 @@
 ### CONTACT
 
 <!-- Add your details -->
-✉️: email_id@xxxxx.com 
-&nbsp;&nbsp; 📲 +91-XXXXXXXXXX
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/kumar-vishwesh-8b059170/) 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https://datasciencestunt.com/)
+✉️: my.email@email.com
+&nbsp;&nbsp; 📲 +65 12345678
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](mylinkedin) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](mywebsite)
 <!-- CONTACT Section Ends -->
 
 <!-- ABOUT Section Starts -->
