@@ -50,7 +50,7 @@ Engineering Graduate 2010-14, First Division
 <!-- EDUCATION Section Ends -->
 
 <!-- PROJECTS Section Starts -->
-### PROJECTS
+### PROJECT
 <!-- Add your details -->
 
 [Classification based projects](#classification-based-projects) <br>
