@@ -68,11 +68,11 @@ In machine learning, classification refers to a predictive modeling problem wher
 [Click here to view codebase](https://github.com/rice-coder/projects/tree/main/statistical-analysis-project-1)
 
 #### Classification Project
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Regression.jpg)
+![alt text](miniproject3.jpg)
 
 Regression is a supervised learning technique which helps in finding the correlation between variables and enables us to predict the continuous output variable based on the one or more predictor variables.
 
-[Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Regression)
+[Click here to view codebase](mini project 3)
 
 <!-- PROJECTS Section Ends -->
 
@@ -80,8 +80,12 @@ Regression is a supervised learning technique which helps in finding the correla
 ## FEATURED
 <!-- Add your details -->
 ##### Certifications
-Machine Learning by Columbia University
+RISE by BCG
+Udemy SQL
+
 
 ##### Achievements
-Star performer of the year at Accenture
+
+Top 2 Business Essentials
+
 <!-- FEATURED Section Ends -->
