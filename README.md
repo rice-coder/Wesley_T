@@ -14,10 +14,10 @@
 I am __Wesley__, an aspiring Data Analyst and recent graduate from the Rapid & Immersive Skill Enhancement (RISE) course by Boston Consulting Group (BCG). I am also a graduate in Psychology from National University of Singapore (NUS) and have 7 years of working experience. Thank you for visiting my page! Feel free to take a look around and use the links to navigate through my various projects.
 
 <!-- Add link to the sections -->
-[Experience](#experience) <br>
+<!-- [Experience](#experience) <br>
 [Education](#education) <br>
 [Projects](#projects) <br>
-[Featured](#featured) <br> 
+[Featured](#featured) <br>  -->
 
 <!-- ABOUT Section Ends -->
 
@@ -47,8 +47,9 @@ Bachelor's Degree (Psychology) 2011 - 2014 -->
 ### PROJECTS
 <!-- Add your details -->
 
-[Classification based projects](#classification-based-projects) <br>
+[Classification projects](#classification-based-projects) <br>
 [Regression based projects](#regression-based-projects) <br>
+[Visualization projects](#visualization-projects) <br>
 
 <!-- Add your details -->
 
