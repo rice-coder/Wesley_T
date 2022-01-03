@@ -76,15 +76,30 @@ Regression is a supervised learning technique which helps in finding the correla
 [Click here to view codebase](mini project 3)
 
 #### Human Centered Design Projects
-![alt text](https://raw.githubusercontent.com/rice-coder/projects/main/hcd-projects/degp-kopitiam.png)
+![alt text](https://raw.githubusercontent.com/rice-coder/projects/main/hcd-projects/digital-essentials-kopitiam/degp-kopitiam.png)
 
-For digital essentials project, created an app for Kopitiam
+Kopitiam food court (Kopitiam) has been hard hit by the pandemic due to 
+government restrictions and the drive towards contactless interactions. The 
+expectation is that these habits will be the new normal and the way of life 
+going forward. <br><br>
+In this project our team proposed:<br>
+1. A redesign of the physical layout to streamline diners traffic<br>
+2. Launch of an App to provide contactless ordering and payment<br>
 
-![alt text](https://raw.githubusercontent.com/rice-coder/projects/main/hcd-projects/hackathon-pelago.png)
+[Click here to view project deck](https://github.com/rice-coder/projects/tree/main/hcd-projects/digital-essentials-kopitiam)
 
-For hackathon project, created an app for Pelago
+![alt text](https://raw.githubusercontent.com/rice-coder/projects/main/hcd-projects/hackathon-pelago/hackathon-pelago.png)
 
-[Click here to view codebase](mini project 3)
+The global online travel booking market is expected to grow by around USD 204 billion by 2024 with a CAGR of close to 5% despite the 
+recent pandemic. Pelago is a young venture of Singapore Airlines group that is looking into tapping this market by connecting travelers 
+with their unique experience offerings. It is looking for ways to address gaps in customer experience so as to improve customer satisfaction and retain their loyalty to use 
+Pelago as their preferred booking platform to book their vacation. <br><br>
+
+Our team proposed the use of an app that could:<br>
+1. Provides seamless end-to-end experience for the Millennials as the primary target user.<br> 
+2. Encourages customer engagement by empowering them to build a community to share travel experiences and ideas.<br>
+
+[Click here to view project deck](https://github.com/rice-coder/projects/tree/main/hcd-projects/hackathon-pelago)
 
 <!-- PROJECTS Section Ends -->
 
