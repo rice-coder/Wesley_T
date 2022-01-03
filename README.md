@@ -50,6 +50,7 @@ Bachelor's Degree (Psychology) 2011 - 2014 -->
 [Visualization Project](#visualization-project) <br>
 [Statistical Analysis Project](#statistical-analysis-project) <br>
 [Classification Project](#classification-project) <br>
+[Human Centered Design Projects](#human-centered-design-projects) <br>
 
 <!-- Add your details -->
 
@@ -71,6 +72,17 @@ In machine learning, classification refers to a predictive modeling problem wher
 ![alt text](miniproject3.jpg)
 
 Regression is a supervised learning technique which helps in finding the correlation between variables and enables us to predict the continuous output variable based on the one or more predictor variables.
+
+[Click here to view codebase](mini project 3)
+
+#### Human Centered Design Projects
+![alt text](https://raw.githubusercontent.com/rice-coder/projects/main/hcd-projects/degp-kopitiam.png)
+
+For digital essentials project, created an app for Kopitiam
+
+![alt text](https://raw.githubusercontent.com/rice-coder/projects/main/hcd-projects/hackathon-pelago.png)
+
+For hackathon project, created an app for Pelago
 
 [Click here to view codebase](mini project 3)
 
