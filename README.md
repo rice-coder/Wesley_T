@@ -47,11 +47,18 @@ Bachelor's Degree (Psychology) 2011 - 2014 -->
 ### PROJECTS
 <!-- Add your details -->
 
-[Classification projects](#classification-projects) <br>
-[Regression based projects](#regression-based-projects) <br>
 [Visualization projects](#visualization-projects) <br>
+[Regression based projects](#regression-based-projects) <br>
+[Classification projects](#classification-based-projects) <br>
 
 <!-- Add your details -->
+
+#### Visualization Projects
+![alt text](https://raw.githubusercontent.com/rice-coder/projects/main/visualization-project-1/BDA09_Group%2005_Mini%20Project%201_Wesley_Teo_Pg1.png)
+
+In this project, my main objective was to incorporate real-time diagnostics of a car seat manufacturing plant's operational processes to better manage available production lines and increase profit margin. Using data and analytics to track the production process of various machines in real time, I provided better visibility of the seat manufacturing process. An analytics dashboard was created using PowerBI to track the plant's operational process across various metrics i.e., downtime minutes, total machine utilization time, etc. Power Query Editor was used to cleaned the preliminary dataset and DAX expressions in PowerBI were used to create the visualized metrics.
+
+[Click here to view codebase](https://github.com/rice-coder/projects/tree/main/visualization-project-1)
 
 #### Classification based projects
 ![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Classification.png)
