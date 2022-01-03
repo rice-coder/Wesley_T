@@ -8,9 +8,6 @@
 
 <!-- ABOUT Section Starts -->
 ### ABOUT
-<!-- Add link to your picture -->
-
-![alt text](https://raw.githubusercontent.com/rice-coder/Wesley_T/main/pictures/68099.png)
 
 <!-- Add your details -->
 
