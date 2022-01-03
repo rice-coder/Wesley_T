@@ -76,6 +76,9 @@ Regression is a supervised learning technique which helps in finding the correla
 [Click here to view codebase](mini project 3)
 
 #### Human Centered Design Projects
+
+<b> Digital Essentials Project - Kopitiam
+
 ![alt text](https://raw.githubusercontent.com/rice-coder/projects/main/hcd-projects/digital-essentials-kopitiam/degp-kopitiam.png)
 
 Kopitiam food court (Kopitiam) has been hard hit by the pandemic due to 
@@ -88,6 +91,8 @@ In this project our team proposed:<br>
 
 [Click here to view project deck](https://github.com/rice-coder/projects/tree/main/hcd-projects/digital-essentials-kopitiam)
 
+<b> Hackathon Project - Pelago 
+  
 ![alt text](https://raw.githubusercontent.com/rice-coder/projects/main/hcd-projects/hackathon-pelago/hackathon-pelago.png)
 
 The global online travel booking market is expected to grow by around USD 204 billion by 2024 with a CAGR of close to 5% despite the 
