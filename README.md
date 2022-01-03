@@ -11,8 +11,7 @@
 
 <!-- Add your details -->
 
-I am __Deckard Cain__, a seasoned data scientist with ~7 years of progressive experience in artificial intelligence. I have contributed as an AI product developer (R&D unit) and been AI consultant for top-notch clients in their AI journey. I am involved in comprehensive development, design & analysis of AI algorithms to build analytical solutions, while facilitating and leading data science teams.
-
+I am __Wesley__, an aspiring Data Analyst and recent graduate from the Rapid & Immersive Skill Enhancement (RISE) course by Boston Consulting Group (BCG). I am also a graduate in Psychology from National University of Singapore (NUS) and have 7 years of working experience. Thank you for visiting my page! Feel free to take a look around and use the links to navigate through my various projects.
 
 <!-- Add link to the sections -->
 [Experience](#experience) <br>
@@ -23,24 +22,24 @@ I am __Deckard Cain__, a seasoned data scientist with ~7 years of progressive ex
 <!-- ABOUT Section Ends -->
 
 <!-- EXPERIENCE Section Starts -->
-### EXPERIENCE
+<!-- ### EXPERIENCE -->
 <!-- Add your details -->
-##### BOSTON CONSULTING GROUP
-SENIOR ANALYST<br>
-June-2019 to Present: 1 year 10 Months
+<!-- ##### BCG
+DATA ANALYST<br>
+Jan-2022 to Present: 0 year 0 months
 
-ROLE: Data Scientist/ Machine Learning Engineer/ AI Consultant
-UNIT: BCG GAMMA
+ROLE: Data Analyst
+UNIT: BCG
 
 Working on various analytics based cases that facilitates clients for next-generation AI strategy. Involved in asset building while applying scientific algorithms on a huge amount of text, time-series data, images and other forms of unstructured data.
-
+  -->
 <!-- EXPERIENCE Section Ends -->
 
 <!-- EDUCATION Section Starts -->
-### EDUCATION
+<!-- ### EDUCATION -->
 <!-- Add your details -->
-##### LNCT Bhopal
-Engineering Graduate 2010-14, First Division
+<!-- ##### NATIONAL UNIVERSITY OF SINGAPORE
+Bachelor's Degree (Psychology) 2011 - 2014 -->
 
 <!-- EDUCATION Section Ends -->
 
