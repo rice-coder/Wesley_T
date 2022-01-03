@@ -2,10 +2,8 @@
 ### CONTACT
 
 <!-- Add your details -->
-✉️: my.email@email.com
-&nbsp;&nbsp; 📲 +65 12345678
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](mylinkedin) 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](mywebsite)
+✉️: wesley.tbw@gmail.com
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/wesley-teo-bw/) 
 <!-- CONTACT Section Ends -->
 
 <!-- ABOUT Section Starts -->
