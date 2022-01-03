@@ -77,7 +77,7 @@ Regression is a supervised learning technique which helps in finding the correla
 
 #### Human Centered Design Projects
 
-<b> Digital Essentials Project - Kopitiam
+<b> Digital Essentials Project - Kopitiam </b>
 
 ![alt text](https://raw.githubusercontent.com/rice-coder/projects/main/hcd-projects/digital-essentials-kopitiam/degp-kopitiam.png)
 
@@ -91,7 +91,7 @@ In this project our team proposed:<br>
 
 [Click here to view project deck](https://github.com/rice-coder/projects/tree/main/hcd-projects/digital-essentials-kopitiam)
 
-<b> Hackathon Project - Pelago 
+<b> Hackathon Project - Pelago </b>
   
 ![alt text](https://raw.githubusercontent.com/rice-coder/projects/main/hcd-projects/hackathon-pelago/hackathon-pelago.png)
 
