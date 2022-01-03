@@ -54,18 +54,18 @@ Bachelor's Degree (Psychology) 2011 - 2014 -->
 <!-- Add your details -->
 
 #### Visualization Project
-![alt text](https://raw.githubusercontent.com/rice-coder/projects/main/visualization-project-1/BDA09_Group%2005_Mini%20Project%201_Wesley_Teo_Pg1.png)
+![alt text](https://raw.githubusercontent.com/rice-coder/projects/main/visualization-project-1/visualization-project-Wesley_Teo.png)
 
 In this project, my main objective was to incorporate real-time diagnostics of a car seat manufacturing plant's operational processes to better manage available production lines and increase profit margin. Using data and analytics to track the production process of various machines in real time, I provided better visibility of the seat manufacturing process. An analytics dashboard was created using PowerBI to track the plant's operational process across various metrics i.e., downtime minutes, total machine utilization time, etc. Power Query Editor was used to cleaned the preliminary dataset and DAX expressions in PowerBI were used to create the visualized metrics.
 
 [Click here to view codebase](https://github.com/rice-coder/projects/tree/main/visualization-project-1)
 
 #### Statistical Analysis Project
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Classification.png)
+![alt text](https://raw.githubusercontent.com/rice-coder/projects/main/statistical-analysis-project-1/mp2_plot.png)
 
 In machine learning, classification refers to a predictive modeling problem where a class label is predicted for a given example of input data.
 
-[Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Classification)
+[Click here to view codebase](https://github.com/rice-coder/projects/tree/main/statistical-analysis-project-1)
 
 #### Classification Project
 ![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Regression.jpg)
