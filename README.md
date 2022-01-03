@@ -47,7 +47,7 @@ Bachelor's Degree (Psychology) 2011 - 2014 -->
 ### PROJECTS
 <!-- Add your details -->
 
-[Classification projects](#classification-based-projects) <br>
+[Classification projects](#classification-projects) <br>
 [Regression based projects](#regression-based-projects) <br>
 [Visualization projects](#visualization-projects) <br>
 
